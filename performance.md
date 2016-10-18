@@ -5,6 +5,11 @@ build, and deploy (by yourself) a system that lets you look up the value for
 a given key, over the internet, at a peak rate of 5000 lookups per second. 
 The data never changes. Let’s design that system.
 
+Additionally:
+ - you will have only 2 week until launch
+ - no SSD (this question is from pre-SSD era)
+ - how is your solution going to fail?
+
 Possible answers:
 *Not specified (open question)*
 
