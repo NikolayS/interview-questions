@@ -160,7 +160,7 @@ Possible answers:
   
 Source: @NikolayS
 
-11) Question:
+12) Question:
 What is the correct answer?
 ```sql
 SELECT COUNT(t) 
