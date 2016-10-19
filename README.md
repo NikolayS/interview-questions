@@ -1,2 +1,2 @@
 # interview-questions
-Best interview questions
+Collection of programmer interview questions
