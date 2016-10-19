@@ -18,4 +18,6 @@
 
 9) Tell us about a time when you saved time by automating a process.
 
-10) Have you ever made a suggestion that improved a business’s processes?
+10) Have you ever made a suggestion that improved business processes in a company?
+
+11) Have you ever spent hours on a code, only to find it was the wrong approach? What did you do?
