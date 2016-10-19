@@ -1,4 +1,4 @@
-# interview-questions
+# Programming Interview Questions
 Collection of programming interview questions.
 
 See also:
