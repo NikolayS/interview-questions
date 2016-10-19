@@ -1,2 +1,2 @@
 # interview-questions
-Collection of programmer interview questions
+Collection of programming interview questions
