@@ -14,3 +14,11 @@ Possible answers:
 *Not specified (open question)*
 
 Source: http://skife.org/interviews/design/2010/10/27/favorite-interview-question.html
+
+1) Question:
+Can you explain how a database index works?
+
+Possible answers:
+*Not specified (open question)*
+
+Source: https://news.ycombinator.com/item?id=14498892
