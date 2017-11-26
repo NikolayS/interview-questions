@@ -1,4 +1,4 @@
-1) Question: 
+# Question: Design your KV storage
 Given a hard drive with one terabyte of data, arranged in 2^32 key/value pairs, 
 where the keys and values each have lengths of 128 bytes, you need to design, 
 build, and deploy (by yourself) a system that lets you look up the value for 
@@ -15,8 +15,7 @@ Possible answers:
 
 Source: http://skife.org/interviews/design/2010/10/27/favorite-interview-question.html
 
-1) Question:
-Can you explain how a database index works?
+# Question: Can you explain how a database index works?
 
 Possible answers:
 *Not specified (open question)*
